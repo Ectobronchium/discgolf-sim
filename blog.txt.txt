@@ -1,0 +1,24 @@
+This project was made in what I would call three stretches:
+
+April: original project specification
+May/June: Physics understanding and integration
+August: Simulation and visualization + report
+
+I started in april thinking about what project I wanted to do. It did not take too long to settle on this one. I spent a significant amount of time working on my project proposal and making something new that could still get a good grade, as Chris mentioned the the surefire way was to do something that had been done before, but I didn’t want that.
+
+Then I had a family emergency and had to put my focus elsewhere.
+
+After a couple of weeks of grief and finishing the computer game design course I decided to jump back on this. I had been working on it for a while when I felt the semester creeping up on me and I needed to take a break. 
+During this time I got Shotshaper to work and had started understanding the physics and integrating the python code into c# to be used in unity. When it had hit around the 22nd of june Chris announced closing the submission for the project and I put my focus elsewhere.
+
+In august I always planned on having finished the project already, but the summer came and went with not as much work done as I had hoped. When it came to the fall semester I had the issue of not being able to register to AGI as I hadn’t gotten these credits yet. As a result I, being sick, spend multiple hours on refining the project proposal (changing it alot as the project had changed over the 4 months), report, calculations, interface, visualization, you name it. I go rather deep into it in both the project specification and the report.
+
+I feel like my project needs videos to actually showcase what it is and how it works, but I haven’t had the time to do that and my PC is having driver issues atm, not to mention the super stressful time constraints.
+
+In short. This is a very very very “E” blog, just to have written something about it.
+
+I wanted to try a project solo and I learnt that I really thrive in a group environment, atleast one where I can talk to other people doing something similar (of which were none in this case).
+
+I also learned a lot in unity, a lot of physics, and had a blast.
+
+I hope this is enough for me to get a passing grade. I really did put my all into this project.
